@@ -86,8 +86,7 @@ for k = 1:num_freqs
     # Magnitude of frequency bin
     power_vals(k) = s_prev2^2 + s_prev^2 - coeff*s_prev*s_prev2;
 end
-## -------------------------------------------------------------<img width="892" height="659" alt="image" src="https://github.com/user-attachments/assets/b2623d2b-e56c-48f5-b526-42f438192268" />
-<img width="888" height="697" alt="image" src="https://github.com/user-attachments/assets/12283a54-53d6-495a-a61e-e5519da09e8a" />
+## -------------------------------------------------------------
 
 #   DETECT TWO STRONGEST FREQUENCIES
 ## -------------------------------------------------------------
